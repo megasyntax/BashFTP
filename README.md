@@ -7,7 +7,7 @@ https://github.com/megasyntax/BashFTP/blob/main/Bash_FTP.sh
 On Linux/MacOS, visit brew.sh  
 Use terminal: brew install fswatch, brew install lftp  
 Modify BashFTP.sh: set local_dir, log_file with your name in filepaths  
-Download Pre-Release: '[BashFTP Script](https://github.com/megasyntax/BashFTP/blob/main/Bash_FTP.sh)'  
+Download Pre-Release: [BashFTP Script](https://github.com/megasyntax/BashFTP/blob/main/Bash_FTP.sh)  
 Execute: ./Bash_FTP.sh in Terminal  
 
 # More info...
