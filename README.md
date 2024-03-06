@@ -5,7 +5,7 @@ https://github.com/megasyntax/BashFTP/blob/main/Bash_FTP.sh
   
 # How To Install  
 using Linux or MacOS goto brew.sh  
-install via terminal 
+install via terminal  
 run `brew install fswatch`  
 run `brew install lftp`  
 edit BashFTP.sh with lines for local_dir, log_file variables with name inside your normal filepath.  
