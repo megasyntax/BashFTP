@@ -4,7 +4,7 @@ https://github.com/megasyntax/BashFTP/blob/main/Bash_FTP.sh
 
   
 # How To Install  
-On Linux/MacOS, visit brew.sh  
+On Linux/MacOS, visit brew.sh once installed,    
 Use terminal: brew install fswatch, brew install lftp  
 Modify BashFTP.sh: set local_dir, log_file with your name in filepaths  
 Download Pre-Release: [BashFTP Script](https://github.com/megasyntax/BashFTP/blob/main/Bash_FTP.sh)  
