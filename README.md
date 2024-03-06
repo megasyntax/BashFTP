@@ -1,5 +1,6 @@
 # BashFTP
 The script waits for a change, uploads the file using an FTP connection, then logs it and after removes itself. Able to keep running, the logging feature will delete any of the same filename, commits welcome.   
+https://github.com/megasyntax/BashFTP/blob/main/Bash_FTP.sh  
 
 # How To Install  
 using Linux or MacOS goto brew.sh  
