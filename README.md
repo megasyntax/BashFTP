@@ -7,6 +7,7 @@ install via terminal run `brew install fswatch`
 run `brew install lftp`  
 edit BashFTP.sh with lines for local_dir, log_file variables with name inside your normal filepath.  
 Pre-Release is available, https://github.com/megasyntax/BashFTP/releases/tag/Pre-Release
+run ./Bash_FTP.sh via Terminal
 
 # More info...
 using an ftp connection you are able to save storage space by automating these tedious steps. 
