@@ -6,7 +6,7 @@ using Linux or MacOS goto brew.sh
 install via terminal run `brew install fswatch`  
 run `brew install lftp`  
 edit BashFTP.sh with lines for local_dir, log_file variables with name inside your normal filepath.  
-Pre-Release is available, https://github.com/megasyntax/BashFTP/releases/tag/Pre-Release  
+Pre-Release is available, [https://github.com/megasyntax/BashFTP/releases/tag/Pre-Release](https://github.com/megasyntax/BashFTP/blob/main/Bash_FTP.sh)  
 run Bash_FTP.sh via Terminal (./Bash_FTP.sh)  
 
 # More info...
