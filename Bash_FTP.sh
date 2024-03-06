@@ -51,7 +51,7 @@ transfer_and_log_file() {
 monitor_and_sync() {
     fswatch -o "$LOCAL_DIR" | while read
     do
-        echo "Change detected.."
+        echo ""
         sleep $DELAY_SECONDS
 
         # Transfer new or modified files
