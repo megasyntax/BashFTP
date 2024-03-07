@@ -11,10 +11,10 @@ Modify your FTP details within the ftp file:
 ```SERVER="192.168.68.118:2525"   
 USERNAME="username"  
 PASSWORD="password"
-
+```
 Download Pre-Release: [BashFTP Script](https://github.com/megasyntax/BashFTP/blob/main/Bash_FTP.sh)  
 Execute: ```./Bash_FTP.sh``` in Terminal  
-```
+
 # More info...
 using an ftp connection you are able to save storage space by automating these tedious steps. 
 follow the steps to install.
