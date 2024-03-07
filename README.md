@@ -16,7 +16,7 @@ Download Pre-Release: [BashFTP Script](https://github.com/megasyntax/BashFTP/blo
 Execute: ```./Bash_FTP.sh``` in Terminal  
 
 # More info...
-using an ftp connection you are able to save storage space by automating these tedious steps. 
-follow the steps to install.
-
-
+A file changes, it uploads it via FTP fast.
+Logs and Vanishes, removing files.
+Running all the time.
+Smart Log-Handling and both MacOS/Linux capable.
