@@ -1,5 +1,5 @@
 # BashFTP
-A file changes, it uploads it via FTP with updates, logs & removes files, running all the time, smart log-handling and script is both MacOS/Linux capable.     
+A file changes and it uploads via FTP with updates, no limit, logs & removes files, running all the time, smart log-handling and script is both MacOS/Linux capable.     
 ![Screenshot 2024-03-06 at 23 46 39](https://github.com/megasyntax/BashFTP/assets/102532457/900a41e1-7059-4549-b73c-daed893ef9e1)
 
   
