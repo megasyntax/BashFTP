@@ -1,5 +1,8 @@
 # BashFTP
-LINUX/MACOS capable, the script monitors for changes, then uploads the file through FTP, then logs it and after removes itself. Able to keep running, the logging feature will delete any of the same filename, commits welcome.   
+A file changes, it uploads it via FTP fast.  
+Logs and Vanishes, removing files.  
+Running all the time.  
+Smart Log-Handling and both MacOS/Linux capable.     
 ![Screenshot 2024-03-06 at 23 46 39](https://github.com/megasyntax/BashFTP/assets/102532457/900a41e1-7059-4549-b73c-daed893ef9e1)
 
   
@@ -15,8 +18,5 @@ PASSWORD="password"
 Download Pre-Release: [BashFTP Script](https://github.com/megasyntax/BashFTP/blob/main/Bash_FTP.sh)  
 Execute: ```./Bash_FTP.sh``` in Terminal  
 
-# More info...
-A file changes, it uploads it via FTP fast.
-Logs and Vanishes, removing files.
-Running all the time.
-Smart Log-Handling and both MacOS/Linux capable.
+# More info...  
+commits welcome.
