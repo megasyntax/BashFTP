@@ -6,7 +6,7 @@ A file changes and it uploads via FTP with updates, no limit, logs & removes fil
 # How To Install  
 On Linux/MacOS, visit [brew.sh](https://brew.sh/), follow steps to install,    
 Use terminal: ```brew install fswatch```, ```brew install lftp```  
-Modify ```BashFTP.sh```: set local_dir, log_file with your name in filepaths  
+Modify ```Bash_FTP.sh```: set the local_dir, log_file with your filepath  
 Modify your FTP details within the ftp file:
 ```
 SERVER="192.168.68.118:2525"   
