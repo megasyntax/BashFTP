@@ -8,7 +8,8 @@ On Linux/MacOS, visit brew.sh once installed,
 Use terminal: ```brew install fswatch```, ```brew install lftp```  
 Modify ```BashFTP.sh```: set local_dir, log_file with your name in filepaths  
 Modify your FTP details within the ftp file:
-```SERVER="192.168.68.118:2525"   
+```
+SERVER="192.168.68.118:2525"   
 USERNAME="username"  
 PASSWORD="password"
 ```
