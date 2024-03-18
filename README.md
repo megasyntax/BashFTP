@@ -12,7 +12,7 @@ LOCAL_DIR="Downloads/completed"
 SERVER="192.168.68.118:2525"
 USERNAME="username"
 PASSWORD="password"
-REMOTE_DIR="/ready"
+REMOTE_DIR="/BASHFTP/"
 LOG_FILE="/Users/USER/downloads/uploaded_files.log"
 DELAY_SECONDS=0 
 ```
